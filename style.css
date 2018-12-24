@@ -1,0 +1,9 @@
+body {
+  background-color: #222;
+}
+
+#playfield {
+  width: 412px;
+  height: 412px;
+  margin: auto;
+}
